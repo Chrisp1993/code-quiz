@@ -1,0 +1,108 @@
+* {
+    margin: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+body {
+    background-color: rgb(220, 224, 229);
+}
+
+.title {
+    text-align: center;
+    background-color: rgb(71, 71, 71);
+    padding: 10px;
+    color: antiquewhite;
+}
+.title h1 {
+    padding: 20px;
+    font-size: 46px;
+    color: rgb(10, 173, 91);
+}
+
+.scoreboard {
+    text-align: center;
+    padding: 30px;
+    border-radius: 20px;
+    border: solid 5px blueviolet;
+    background-color: rgb(240, 242, 139);
+    color: blueviolet;
+    margin-top: 30px;
+    width: 400px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.hiscores {
+    color: #304060;
+    font-size: 18px;
+    padding: 6px;
+    font-weight: normal;
+}
+.hiscores:first-child {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.start {
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    margin-top: 20px;
+    color: blueviolet;
+    font-size: 25px;
+}
+.start-btn {
+    margin: auto;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: rgb(10, 173, 91);
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+}
+.start-btn:hover {
+    font-weight: bold;
+    color: rgb(6, 90, 62);
+}
+
+.hide {
+    display: none;
+}
+
+.quiz-container {
+    width: 50%;
+    text-align: center;
+}
+
+.questions {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.answers {
+    width: 50%;
+    text-align: center;
+}
+
+.answers {
+    padding: 5px;
+    margin: 10px;
+    width: 70%;
+    background-color: rgb(238, 242, 10);
+}
+.answers:hover {
+    color: blueviolet;
+}
+
+.footer {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+.footer a {
+    color: blueviolet;
+}
+
+a:hover {
+    font-weight: bold;
+}
