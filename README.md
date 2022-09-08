@@ -2,7 +2,7 @@
 
 
 ## Description
-This web application is a timed code quiz that's made up of multiple-choice questions. These questions are based on JavaScript fundamentals. It then saves your high score so you can guage your progress compared to your peers. 
+This web application is a timed code quiz that's made up of multiple-choice questions. These questions are based on JavaScript fundamentals. It then saves your high score so you can compare your progress to your peers. 
 
 
 ## Built Using:
